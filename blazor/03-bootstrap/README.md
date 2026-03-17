@@ -1,6 +1,6 @@
 # Bootstrap
 
-Bootstrap ist ein kostenloses CSS-Framework von Twitter. Es liefert fertige Klassen für Layouts, Buttons, Formulare, Tabellen und vieles mehr — ohne dass du CSS von Grund auf schreiben musst.
+Bootstrap ist ein kostenloses CSS-Framework. Es liefert fertige Klassen für Layouts, Buttons, Formulare, Tabellen und vieles mehr — ohne dass du CSS von Grund auf schreiben musst.
 
 ## Warum Bootstrap?
 
