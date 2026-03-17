@@ -5,7 +5,7 @@ Mit Parametern übergibst du Daten von einer übergeordneten an eine untergeordn
 ## Beispiel
 
 ```razor
-@* Datei: Components/Begrüßung.razor *@
+@* Datei: Components/Hallo.razor *@
 
 <p>Hallo, @Name! Du bist @Alter Jahre alt.</p>
 
@@ -20,7 +20,7 @@ Mit Parametern übergibst du Daten von einer übergeordneten an eine untergeordn
 
 ```razor
 @* Verwendung in einer anderen Komponente: *@
-<Begrüßung Name="Anna" Alter="30" />
+<Hallo Name="Anna" Alter="30" />
 ```
 
 > **Das ist wichtig weil...** Parameter machen Komponenten wiederverwendbar. Statt eine Komponente für jeden Benutzer zu bauen, baust du eine und gibst den Namen als Parameter mit.
