@@ -9,5 +9,6 @@ HTML (HyperText Markup Language) ist die Sprache, mit der du den **Inhalt** eine
 - [Listen & Tabellen](./03-listen-tabellen.md)
 - [Formulare](./04-formulare.md)
 - [Bilder & Links](./05-bilder-links.md)
+- [Das div-Element](./06-div.md)
 
 > **Das ist wichtig weil...** Blazor-Komponenten basieren auf HTML. Ohne HTML-Kenntnisse kannst du keine sinnvollen Benutzeroberflächen bauen.
