@@ -1,6 +1,6 @@
 # Blazor Tutorial — Nachschlagewerk
 
-Willkommen! Dieses Nachschlagewerk erklärt alle wichtigen Themen für die Entwicklung einer **Blazor Server** Anwendung — verständlich für Einsteiger.
+Dieses Nachschlagewerk erklärt alle wichtigen Themen für die Entwicklung einer **Blazor Server** Anwendung — verständlich für Einsteiger.
 
 ## Inhaltsverzeichnis
 
